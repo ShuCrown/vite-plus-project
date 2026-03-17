@@ -1,0 +1,14 @@
+name = "vite-plus-project-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "my-app-db"
+database_id = "141e2c49-9eca-4b95-98dd-8febba53cac8"
+
+[env.development]
+vars = { ENVIRONMENT = "development" }
+
+[dev]
+port = 8787
