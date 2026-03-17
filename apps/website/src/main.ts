@@ -23,7 +23,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 <section id="next-steps">
   <div id="docs">
     <svg class="icon" role="presentation" aria-hidden="true"><use href="/icons.svg#documentation-icon"></use></svg>
-    <h2>Documentation</h2>
+    <h2>Documentation Test</h2>
     <p>Your questions, answered</p>
     <ul>
       <li>
